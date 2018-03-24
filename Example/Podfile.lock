@@ -1,0 +1,16 @@
+PODS:
+  - SRunes (0.1.0)
+
+DEPENDENCIES:
+  - SRunes (from `../`)
+
+EXTERNAL SOURCES:
+  SRunes:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SRunes: 61e451fd5c9dbfd52ad56b20839d0a258b4b13b8
+
+PODFILE CHECKSUM: d5c48b70d5c0a7b36e44157e7eb058866fbea611
+
+COCOAPODS: 1.5.0.beta.1

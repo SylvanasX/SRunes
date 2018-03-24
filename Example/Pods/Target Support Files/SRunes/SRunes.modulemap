@@ -1,0 +1,6 @@
+framework module SRunes {
+  umbrella header "SRunes-umbrella.h"
+
+  export *
+  module * { export * }
+}
