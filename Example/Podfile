@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SRunes_Example' do
+  pod 'SRunes', :path => '../'
+
+  target 'SRunes_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
